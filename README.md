@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou Guilherme Silva 👋
 
 <!--
 **guijs02/guijs02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/guijs02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guijs02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijs02&layout=compact&langs_count=16&theme=dracula"/>
-    
+
 </div>
-<div style="display: inline_block"><br>
+  <h3>Tecnologias usadas por mim</h3>
+ <hr>
+  
+<div style="display: inline_block">
+
 <img align="center" alt="Gui-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Gui-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Gui-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
