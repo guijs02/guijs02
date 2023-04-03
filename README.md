@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <img align="center" alt="Gui-Blazor" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/blazor.svg">
 <img align="center" alt="Gui-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="Gui-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="center" alt="Gui-SQLSERVER" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
+
 
 </div>
   
