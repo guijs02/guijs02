@@ -43,11 +43,6 @@
 ![WSL](https://img.shields.io/badge/WSL-Windows%20Subsystem%20for%20Linux-0078D6?style=flat&logo=windows&logoColor=white)
 
 
-## 🐍 Snake dos meus commits
-
-![Snake animation](https://github.com/guijs02/guijs02/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva02/)
