@@ -1,49 +1,47 @@
-### Olá, eu sou Guilherme Silva 👋
+# 👋 Olá, eu sou o Guilherme Silva
 
-<!--
-**guijs02/guijs02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Backend especializado em .NET, APIs RESTful e soluções escaláveis.
 
-Here are some ideas to get you started:
+💡 Apaixonado por resolver problemas com código limpo, boas práticas (SOLID, DDD, Clean Architecture) e tecnologias modernas como Docker e Blazor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <a href="https://github.com/guijs02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guijs02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guijs02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijs02&layout=compact&theme=dracula" />
 </div>
-  <h3>Tecnologias usadas por mim</h3>
- <hr>
-  
-<div style="display: inline_block">
 
-<img align="center" alt="Gui-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="Gui-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Gui-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Gui-C#" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img align="center" alt="Gui-Blazor" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/blazor.svg">
-<img align="center" alt="Gui-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="Gui-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="center" alt="Gui-SQLSERVER" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
-<img align="center" alt="Gui-.NET" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  
+## 🛠️ Tecnologias & Ferramentas
+
+**🧠 Arquitetura e Boas Práticas:**  
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6e40c9?style=flat&logo=codefactor&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-orange?style=flat)
+![DDD](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-blueviolet?style=flat)
+
+**🧪 Backend:**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=blazor&logoColor=white)
+![REST API](https://img.shields.io/badge/API%20REST-00599C?style=flat&logo=cloudflare&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+**🗄️ Banco de Dados:**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**🎨 Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**⚙️ Ferramentas & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
-</div>
-  
-<br>
-<br>
-  
- <div>
-      <a href="https://www.instagram.com/guijs02/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-          <a href="https://www.linkedin.com/in/guilherme-silva02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-             <a href="mailto:guilhermejsilva04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-  </div>
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silva02/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermejsilva04@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guijs02/)
    
