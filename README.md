@@ -19,12 +19,15 @@
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-orange?style=flat)
 ![DDD](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-blueviolet?style=flat)
 
-**🧪 Backend:**  
+**👨‍💻 Backend:**  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=blazor&logoColor=white)
 ![REST API](https://img.shields.io/badge/API%20REST-00599C?style=flat&logo=cloudflare&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+**🧪 Testes Automatizados:**  
+![xUnit](https://img.shields.io/badge/xUnit.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
 **🗄️ Banco de Dados:**  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -37,6 +40,8 @@
 **⚙️ Ferramentas & DevOps:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-Windows%20Subsystem%20for%20Linux-0078D6?style=flat&logo=windows&logoColor=white)
+
 
 
 ## 🌐 Onde me encontrar
